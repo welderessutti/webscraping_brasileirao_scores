@@ -12,4 +12,4 @@
 <p>After, it´s created automatically a database named of "brasileirao", a table with the same name of the JSON file and its columns.</p>
 <p>At last, the JSON file is opened and all of its dataset is inserted into the database table.</p>
 
-<p><strong>*Project under development.</strong></p>
+<p><strong>Unfortunately, the application has been broken by updating some library. I'm still going to fix this.</strong></p>
